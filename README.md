@@ -1,0 +1,1 @@
+# StaySync-Hostel-Management-System
